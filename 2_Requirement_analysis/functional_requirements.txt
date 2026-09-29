@@ -1,0 +1,7 @@
+User registration and login.
+• User input and data processing.
+• Data storage and retrieval.
+• Search and filtering functionality.
+• Required notifications or responses.
+• Admin management functionality where applicable.
+• Integration with APIs or AI services where required.

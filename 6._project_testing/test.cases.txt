@@ -1,0 +1,1 @@
+Individual functions and modules are tested independently to ensure that each component works correctly.

@@ -1,0 +1,1 @@
+Major application features such as login, data entry, processing, search, results, and administration are tested using different test case

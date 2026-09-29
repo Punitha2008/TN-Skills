@@ -1,0 +1,1 @@
+Testing is performed to verify that the application works according to the specified requirements and to identify and correct errors before deployment.

@@ -1,0 +1,6 @@
+The application should be easy to use.
+• The system should provide fast responses.
+• User data should be protected.
+• The application should be reliable and scalable.
+• The system should handle multiple users efficiently.
+• The interface should work properly on supported devices.

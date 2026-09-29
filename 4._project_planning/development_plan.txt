@@ -1,0 +1,14 @@
+The project is divided into different stages to ensure systematic development and timely completion.
+
+TASK PLANNING
+
+• Identify the project problem and objectives.
+• Collect and analyze requirements.
+• Design the system architecture.
+• Design the database and user interface.
+• Develop frontend components.
+• Develop backend services and APIs.
+• Integrate database and AI/ML components.
+• Perform testing and debugging.
+• Prepare documentation.
+• Demonstrate the completed project.

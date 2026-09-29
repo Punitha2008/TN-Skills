@@ -1,0 +1,1 @@
+Existing methods may involve manual processes, time consumption, data duplication, limited accessibility, and difficulty in managing information. The proposed system aims to overcome these limitations through automation and modern technologies.
